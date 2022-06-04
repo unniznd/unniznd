@@ -15,7 +15,8 @@ I am a Django Developer and Data Scientist <img src="https://media.giphy.com/med
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aanand-s-5b6bb9200/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/unniznd)
-[![Visitors Badge](https://img.shields.io/badge/-Visitors-blue?style=flat&logo=Eye&logoColor=white)](https://komarev.com/ghpvc/?username=unniznd&color=blue)
+
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
