@@ -5,10 +5,10 @@
 
 # Hi, I'm [Aanand S](https://github.com/unniznd) 👋
 
-I am a Django Developer and Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: Contributing to backend applications and Machine Learning Projects.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: Contributing to backend of the software
 
-- :seedling: Exploring World of Machine Learning and Web 3
+- :seedling: Exploring World of Web 3
 
 - :zap: In my free time, Solve stack overflow questions and Write technical articles
 
@@ -39,7 +39,6 @@ I am a Django Developer and Data Scientist <img src="https://media.giphy.com/med
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=unniznd&theme=dark&background=000000)](https://git.io/streak-stats)     
                                                                                                                                              
-                                                                                                                                             
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unniznd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)      
+                                                                                                                                               
                                                                                                                                              
  ![Aanand S GitHub stats](https://github-readme-stats.vercel.app/api?username=unniznd&show_icons=true&theme=radical)
