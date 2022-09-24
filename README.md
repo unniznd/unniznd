@@ -8,9 +8,10 @@
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: Contributing to backend of the software
 
-- :seedling: Exploring World of Web 3
+- :seedling: Learning Web3
 
-- :zap: In my free time, Solve stack overflow questions and Write technical articles
+- :zap: Solves stack overflow questions
+- :dart: Fun with projects and much more
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aanand-s-5b6bb9200/)
