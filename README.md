@@ -5,7 +5,7 @@
 
 # Hi, I'm [Aanand S](https://github.com/unniznd) 👋
 
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Software Engineer Intern at TezBooks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :telescope: Contributing to backend of the software
 
 - :seedling: Learning Web3
