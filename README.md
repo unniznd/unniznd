@@ -5,7 +5,7 @@
 
 # Hi, I'm [Aanand S](https://github.com/unniznd) 👋
 
-I am a Solidity Developer at Metashot <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+I am a Tech Lead at Metashot <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :telescope: Contributing to backend of the software
 
 - :seedling: Learning Web3
